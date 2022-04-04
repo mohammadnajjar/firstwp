@@ -1,0 +1,12 @@
+<wpml-config>
+	<admin-texts>
+		<key name="theme_mods_meta_news">
+			<key name="meta_news_top_stories_title"/>
+			<key name="meta_news_banner_slider_posts_title"/>
+			<key name="meta_news_banner_featured_posts_1_title"/>
+			<key name="meta_news_banner_featured_posts_2_title"/>
+			<key name="meta_news_header_featured_posts_title"/>
+			<key name="meta_news_footer_featured_posts_title"/>
+		</key>
+	</admin-texts>
+</wpml-config>

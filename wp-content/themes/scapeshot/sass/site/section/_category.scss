@@ -1,0 +1,32 @@
+/**
+ * 8.3.23 - Category Section
+ */
+
+.category-content-section .entry-title a {
+    display: block;
+}
+
+.category-content-section.text-align-left .entry-container {
+    text-align: left;
+}
+
+.category-content-section.text-align-center .entry-container {
+    text-align: center;
+}
+
+.category-content-section.text-align-right .entry-container {
+    text-align: right;
+}
+
+.home .category-content-section .entry-title ~ .entry-meta {
+    clip: unset;
+    height: unset;
+    overflow: unset;
+    width: auto;
+    position: unset !important;
+    word-wrap: unset !important;
+}
+
+.category-content-section .entry-title ~ .entry-meta {
+    margin-bottom: 0;
+}

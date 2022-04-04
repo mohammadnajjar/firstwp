@@ -1,0 +1,1856 @@
+# Copyright (C) 2021 Theme Horse
+# This file is distributed under the GNU General Public License v3 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Meta News 1.1.1\n"
+"Report-Msgid-Bugs-To: https://www.themehorse.com/contact-us/\n"
+"POT-Creation-Date: 2021-12-24 19:25+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Theme Horse <support@themehorse.com>\n"
+"Language-Team: Theme Horse <support@themehorse.com>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: header.php:274 header.php:345 header.php:416 header.php:486 footer.php:69
+#: template-parts/content.php:72 template-parts/content-search.php:48
+#: inc/widgets/meta-news-card-block-posts.php:146
+#: inc/widgets/meta-news-card-block-posts.php:190
+#: inc/widgets/meta-news-recent-posts.php:116
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:151
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:205
+msgid "% Comments"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/theme-info/info.php:69
+#, php-format
+msgid ""
+"%1$s is now installed and all of it's features are now ready to use. Here, "
+"we have the following information and helpful links for your better "
+"experience with %1$s. %2$sThank you very much for installing and activating "
+"our theme! %2$sLet's get start setting up your site now... :)"
+msgstr ""
+
+#: header.php:274 header.php:345 header.php:416 header.php:486 footer.php:69
+#: template-parts/content.php:72 template-parts/content-search.php:48
+#: inc/widgets/meta-news-card-block-posts.php:146
+#: inc/widgets/meta-news-card-block-posts.php:190
+#: inc/widgets/meta-news-recent-posts.php:116
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:151
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:205
+msgid "1 Comment"
+msgstr ""
+
+#: inc/theme-info/info.php:106
+msgid "1000+ Font Families"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:47
+msgid "1000+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info/info.php:107
+msgid "12 Sidebars (Widget Areas) "
+msgstr ""
+
+#: inc/theme-info/info.php:102
+msgid "30+ Social Profiles"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/theme-info/info.php:114
+msgid "9 Widget/Section Title Style"
+msgstr ""
+
+#: inc/theme-info/info.php:57
+msgid "About Meta News"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/customizer.php:795
+msgid "Additional Theme Settings"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:40
+msgid "Advance"
+msgstr ""
+
+#: inc/customizer.php:307
+msgid "Advertisement Image"
+msgstr ""
+
+#: inc/customizer.php:315
+msgid "Advertisement Image Url"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:17
+#, php-format
+msgid ""
+"After activating it just go to %1$s\"Import Demo Data\"%2$s option under "
+"%1$s\"Appearance\"%2$s."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/tgm/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/theme-info/sections/getting_started.php:39
+msgid ""
+"All settings and theme options are available via \"Customizer\" where you "
+"can easily customize different aspects of the theme."
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/tgm/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:38
+msgid "Assign Static Page"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/customizer.php:283
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Background Overlay"
+msgstr ""
+
+#: inc/customizer.php:390
+msgid "Banner"
+msgstr ""
+
+#: header.php:89
+msgid "Banner Add"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:31
+msgid "Banner Advertisement Style"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:143
+msgid "Banner Full Width"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:150
+msgid "Banner Gutter Option"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:157
+msgid "Banner Image Slider"
+msgstr ""
+
+#: inc/customizer.php:396
+msgid "Banner Settings"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:136
+msgid "Banner Variations"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer.php:205
+msgid ""
+"Below options are global setting. Set individual layout from specific "
+"page/post."
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:15
+msgid ""
+"Below setting will not reflect on main Blog Page and some Plugins Pages."
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:41
+msgid "Block Style"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:265
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:213
+msgid "Category Color"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:14
+msgid "Changelog"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:19
+#, php-format
+msgid ""
+"Choose a %1$sXML, WIE%2$s and %1$sDAT%2$s file and click on %1$s\"Import "
+"Demo Data\"%2$s button than you can see your site with our demo content."
+msgstr ""
+
+#: inc/customizer.php:382 inc/customizer.php:463 inc/customizer.php:516
+#: inc/customizer.php:569 inc/customizer.php:638 inc/customizer.php:691
+msgid "Choose Category"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:59
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:59
+msgid "Choose Category:"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:23
+#: inc/theme-info/sections/recommended_actions.php:36
+msgid "Click on Publish"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:49
+msgid "Click on Save"
+msgstr ""
+
+#: inc/theme-info/info.php:112 inc/theme-info/sections/free_vs_pro.php:206
+msgid "Color Elements"
+msgstr ""
+
+#: inc/theme-info/info.php:110 inc/theme-info/sections/free_vs_pro.php:66
+msgid "Color Options"
+msgstr ""
+
+#: inc/theme-info/info.php:111 inc/theme-info/sections/free_vs_pro.php:199
+msgid "Color Scheme"
+msgstr ""
+
+#. %s is the page number.
+#: assets/library/breadcrumbs/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:66
+msgid "Comments are closed."
+msgstr ""
+
+#: header.php:274 header.php:345 header.php:416 header.php:486 footer.php:69
+#: template-parts/content.php:72 template-parts/content-search.php:48
+#: inc/widgets/meta-news-card-block-posts.php:146
+#: inc/widgets/meta-news-card-block-posts.php:190
+#: inc/widgets/meta-news-recent-posts.php:116
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:151
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:205
+msgid "Comments Off"
+msgstr ""
+
+#. 1: comment count number, 2: title.
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/theme-info/sections/getting_started.php:5
+msgid ""
+"Complete the list of steps so that you can set up your site same like our "
+"demo which is very easy to follow."
+msgstr ""
+
+#: inc/theme-info/sections/support.php:38
+#: inc/theme-info/sections/support.php:40
+msgid "Contact Support"
+msgstr ""
+
+#: template-parts/content.php:89 inc/widgets/meta-news-card-block-posts.php:155
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:160
+msgid "Continue Reading"
+msgstr ""
+
+#: footer.php:131
+msgid "Copyright &copy; "
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:19
+msgid "Create a new page with \"Front Page Template\""
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:21
+msgid "Create a new page with any title."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:25
+msgid "Create New Page"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:24
+msgid "Custom Menu"
+msgstr ""
+
+#: inc/theme-info/info.php:113 inc/theme-info/sections/free_vs_pro.php:73
+msgid "Custom Widgets"
+msgstr ""
+
+#: functions.php:175
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:790
+#: assets/library/breadcrumbs/breadcrumbs.php:1219
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer.php:297
+msgid "Dark Overlay"
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:30
+msgid "Default Layout set in Customizer"
+msgstr ""
+
+#: inc/theme-info/info.php:27 inc/theme-info/sections/support.php:22
+#: inc/theme-info/sections/getting_started.php:22
+msgid "Demo Content"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:15
+msgid "Display Card/Block Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:15
+msgid "Display Horizontal/Vertical Posts"
+msgstr ""
+
+#: inc/customizer.php:405 inc/customizer.php:596
+msgid "Display Option"
+msgstr ""
+
+#: inc/widgets/meta-news-recent-posts.php:15
+msgid "Display Recent Posts"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Display Style"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:4
+msgid "Documentation"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:18
+#, php-format
+msgid "Download the desired demo data from %1$shere%2$s."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content-page.php:49
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer.php:485
+msgid "EDITOR'S PICK"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:80
+msgid "Excerpt Modification"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/meta-news-default-option.php:70
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer.php:471
+msgid "Featured Posts 1"
+msgstr ""
+
+#: inc/customizer.php:524
+msgid "Featured Posts 2"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:129
+msgid "Featured Posts Slider/Center/Full Width"
+msgstr ""
+
+#: inc/customizer.php:418
+msgid "Featured Slider"
+msgstr ""
+
+#: inc/theme-info/info.php:109 inc/theme-info/sections/free_vs_pro.php:59
+msgid "Font Color"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:45
+msgid "Font Family"
+msgstr ""
+
+#: inc/theme-info/info.php:108 inc/theme-info/sections/free_vs_pro.php:52
+msgid "Font Size"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:95
+msgid "Footer - Column 1"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:106
+msgid "Footer - Column 2"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:117
+msgid "Footer - Column 3"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:128
+msgid "Footer - Column 4"
+msgstr ""
+
+#: inc/theme-info/info.php:116 inc/theme-info/sections/free_vs_pro.php:234
+msgid "Footer Editor"
+msgstr ""
+
+#: inc/customizer.php:646
+msgid "Footer Featured Posts"
+msgstr ""
+
+#: inc/theme-info/info.php:115 inc/theme-info/sections/free_vs_pro.php:227
+msgid "Footer Navigation Bar"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:220
+msgid "Footer Widget Column"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:11
+msgid "FREE"
+msgstr ""
+
+#: inc/theme-info/info.php:29
+msgid "Free Vs Pro"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:73
+msgid "Front Page 2 Col - Column 1"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:84
+msgid "Front Page 2 Col - Column 2"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:40
+msgid "Front Page 3 Col - Column 1"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:51
+msgid "Front Page 3 Col - Column 2"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:62
+msgid "Front Page 3 Col - Column 3"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page Template"
+msgstr ""
+
+#: inc/theme-info/info.php:49
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: inc/theme-info/info.php:25
+msgid "Getting Started"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:242
+msgid "Global"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Global Layout Setting"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:33
+#, php-format
+msgid "Go to %1$s\"Appearance > Customize > Homepage Settings\"%2$s."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:46
+#, php-format
+msgid "Go to %1$s\"Appearance > Widgets\"%2$s."
+msgstr ""
+
+#: inc/theme-info/sections/getting_started.php:40
+#: inc/theme-info/sections/recommended_actions.php:59
+msgid "Go to Theme Options"
+msgstr ""
+
+#: footer.php:149
+msgid "Go to Top"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:577
+msgid "Header Featured Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:74
+msgid "Hide All Featured Images"
+msgstr ""
+
+#: inc/customizer.php:824
+msgid "Hide Archive Title Label"
+msgstr ""
+
+#: inc/customizer.php:728
+msgid "Hide Author Meta"
+msgstr ""
+
+#: inc/customizer.php:274
+msgid "Hide Breadcrumbs"
+msgstr ""
+
+#: inc/customizer.php:708
+msgid "Hide Category Meta"
+msgstr ""
+
+#: inc/customizer.php:738
+msgid "Hide Comment Meta"
+msgstr ""
+
+#: inc/customizer.php:718
+msgid "Hide Date Meta"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/widgets/meta-news-recent-posts.php:51
+msgid "Hide Featured Images"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:74
+msgid "Hide Featured Images in Card Style Only"
+msgstr ""
+
+#: inc/customizer.php:480
+msgid "Hide Featured Posts 1"
+msgstr ""
+
+#: inc/customizer.php:533
+msgid "Hide Featured Posts 2"
+msgstr ""
+
+#: inc/customizer.php:427
+msgid "Hide Featured Slider"
+msgstr ""
+
+#: inc/customizer.php:655
+msgid "Hide Footer Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:586
+msgid "Hide Header Featured Posts"
+msgstr ""
+
+#: inc/customizer.php:768
+msgid "Hide Single Post Author Meta"
+msgstr ""
+
+#: inc/customizer.php:748
+msgid "Hide Single Post Category Meta"
+msgstr ""
+
+#: inc/customizer.php:778
+msgid "Hide Single Post Comment Meta"
+msgstr ""
+
+#: inc/customizer.php:758
+msgid "Hide Single Post Date Meta"
+msgstr ""
+
+#: inc/customizer.php:788
+msgid "Hide Single Post Tags Meta"
+msgstr ""
+
+#: inc/customizer.php:245
+msgid "Hide Social Profiles"
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:77
+msgid "Hide Sub Posts Featured Images Only"
+msgstr ""
+
+#: inc/customizer.php:256
+msgid "Hide Top Bar"
+msgstr ""
+
+#: inc/customizer.php:331
+msgid "Hide Top Stories Post"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:41
+msgid "Horizontal Style"
+msgstr ""
+
+#: inc/theme-info/info.php:103 inc/theme-info/sections/free_vs_pro.php:115
+msgid "Hot Stories"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:772
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.themehorse.com/"
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.themehorse.com/themes/meta-news"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:32
+msgid "Image"
+msgstr ""
+
+#: inc/theme-info/info.php:104
+msgid "Image Slider"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:33
+msgid "Image/Code (Widget)"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:24
+#: inc/theme-info/sections/getting_started.php:24
+#: inc/theme-info/sections/recommended_actions.php:6
+msgid "Import Demo Content"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:14
+#, php-format
+msgid ""
+"Importing demo data is the easiest way to setup your site same like our "
+"demos. %s It will allow you to quickly edit everything instead of creating "
+"content from scratch."
+msgstr ""
+
+#: inc/theme-info/sections/support.php:23
+#: inc/theme-info/sections/getting_started.php:23
+msgid ""
+"Importing demo data is the easiest way to setup your site. Quickly edit "
+"everything instead of creating content from scratch."
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:243
+msgid "Individual Sections"
+msgstr ""
+
+#: inc/meta-news-default-option.php:71
+msgid "Instagram"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:16
+#, php-format
+msgid ""
+"Install and Activate the %1$s\"One Click Demo Import\"%2$s plugin. If you "
+"have not."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/tgm/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. May be please check the "
+"URL for typing errors or start a new search to find the page you are looking "
+"for."
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer.php:356
+msgid "Label"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:52
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:52
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:164
+msgid "Latest Posts Title"
+msgstr ""
+
+#: inc/customizer.php:195
+msgid "Layout"
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:45 inc/customizer.php:211
+#: inc/widgets/meta-news-widgets-init.php:29
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer.php:298
+msgid "Light Overlay"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:10
+msgid "LIST OF FEATURES"
+msgstr ""
+
+#: inc/customizer.php:432
+msgid "MAIN STORIES"
+msgstr ""
+
+#: inc/customizer.php:406
+msgid "Make sure Banner Sections are enable."
+msgstr ""
+
+#: inc/theme-info/info.php:105
+msgid "Menu Position Options"
+msgstr ""
+
+#. Name of the theme
+msgid "Meta News"
+msgstr ""
+
+#: inc/customizer.php:25
+msgid "Meta News Demo"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Meta News is a Multi-Purpose Magazine/News WordPress Theme. Meta News is "
+"specially designed for magazine sites (food, travel, fashion, music, health, "
+"sports, photography), news sites, shopping sites, personal/photo blog and "
+"many more. There are Front Page Template, Sidebar Page Layout, Top Bar, "
+"Header Image/Overlay/Advertisement, Social Profiles and Banner Slider. Also "
+"supports popular plugins like WooCommerce, bbPress, Contact Form 7 and many "
+"more. It is also translation ready. Get free support at https://www."
+"themehorse.com/support-forum/ and view beautiful demo site at https://www."
+"themehorse.com/demos/meta-news"
+msgstr ""
+
+#: inc/customizer.php:137
+msgid "Meta News Pro"
+msgstr ""
+
+#: inc/customizer.php:832 inc/customizer.php:841
+msgid "Meta News Support"
+msgstr ""
+
+#: inc/customizer.php:19
+msgid "Meta News Theme Instructions"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: assets/library/breadcrumbs/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:738
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:755
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:789
+#: assets/library/breadcrumbs/breadcrumbs.php:845
+#: assets/library/breadcrumbs/breadcrumbs.php:1215
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: functions.php:173
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:87
+msgid "Navigation Sticky"
+msgstr ""
+
+#: inc/customizer.php:265
+msgid "Navigation Uppercase"
+msgstr ""
+
+#: index.php:56 archive.php:40 search.php:45
+msgid "Next"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: header.php:274 header.php:345 header.php:416 header.php:486 footer.php:69
+#: template-parts/content.php:72 template-parts/content-search.php:48
+#: inc/widgets/meta-news-card-block-posts.php:146
+#: inc/widgets/meta-news-card-block-posts.php:190
+#: inc/widgets/meta-news-recent-posts.php:116
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:151
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:205
+msgid "No Comments"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:35 inc/customizer.php:212
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "No Sidebar Full Width"
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:40
+msgid "No Sidebar, Full Width"
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "None"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:39
+msgid "Normal"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:20
+#, php-format
+msgid ""
+"Now go to the %1$sCustomize%2$s where all settings and theme options are "
+"available where you can easily customize different aspects of the theme."
+msgstr ""
+
+#: inc/widgets/meta-news-recent-posts.php:42
+msgid "Number of Post:"
+msgstr ""
+
+#: inc/functions.php:153
+msgid "One Click Demo Import"
+msgstr ""
+
+#. 1: title.
+#: comments.php:35
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:8
+msgid "or"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:8
+msgid "or Follow the below steps to Import demo content:"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:12
+msgid "or Follow the below steps to setup manually:"
+msgstr ""
+
+#. %s is the page number.
+#: assets/library/breadcrumbs/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-page.php:35 template-parts/content.php:107
+msgid "Pages: "
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:1121
+#: inc/tgm/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:387
+#: inc/tgm/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer.php:607
+msgid "POPULAR STORIES"
+msgstr ""
+
+#: inc/customizer.php:699
+msgid "Posts Meta"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:241
+msgid "Posts Meta Hide Option"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:122
+msgid "Posts Number for Sections"
+msgstr ""
+
+#: inc/customizer.php:437 inc/customizer.php:490 inc/customizer.php:543
+#: inc/customizer.php:612 inc/customizer.php:665
+msgid "Posts Title"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: index.php:55 archive.php:39 search.php:44
+msgid "Previous"
+msgstr ""
+
+#: functions.php:47
+msgid "Primary"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:12
+msgid "PRO"
+msgstr ""
+
+#: inc/meta-news-footer-info.php:31
+#, php-format
+msgid "Proudly Powered by: %s"
+msgstr ""
+
+#: inc/customizer.php:17
+msgid "Rate Meta News"
+msgstr ""
+
+#: inc/theme-info/info.php:73
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:8
+msgid "Read Documentation"
+msgstr ""
+
+#: inc/theme-info/sections/getting_started.php:12
+#: inc/theme-info/sections/getting_started.php:16
+msgid "Read Full Documentation"
+msgstr ""
+
+#. Theme Name
+#: inc/theme-info/sections/support.php:7
+#: inc/theme-info/sections/getting_started.php:15
+#, php-format
+msgid ""
+"Read our full documentation for all the detailed information on how to setup "
+"and use %s theme."
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:24
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/customizer.php:660
+msgid "RECOMMENDED"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/theme-info/info.php:26 inc/theme-info/sections/getting_started.php:4
+#: inc/theme-info/sections/getting_started.php:6
+msgid "Recommended Actions"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: header.php:46 header.php:53
+msgid "Responsive Menu"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:386
+#: inc/tgm/class-tgm-plugin-activation.php:827
+#: inc/tgm/class-tgm-plugin-activation.php:2533
+#: inc/tgm/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Review Meta News"
+msgstr ""
+
+#: inc/meta-news-metaboxes.php:50 inc/customizer.php:210
+#: inc/widgets/meta-news-widgets-init.php:18
+msgid "Right Sidebar"
+msgstr ""
+
+#: searchform.php:10 searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr ""
+
+#. %s: search query.
+#: search.php:22
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: assets/library/breadcrumbs/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:15
+msgid ""
+"See the list on the latest version changes. Just see the changelog to get "
+"complete list of recent fixes and new features."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:22
+#, php-format
+msgid ""
+"Select %1$s\"Front Page Template\"%2$s for the option %1$sPage Attributes > "
+"Template%2$s which you can find it from the right section of the page editor."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:35
+#, php-format
+msgid ""
+"Select the page that you have created in the %1$s\"Step 1\"%2$s for "
+"%1$s\"Homepage\"%2$s."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:44
+msgid "Set \"Widgets\""
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:31
+msgid "Set \"Your homepage displays\" to \"A Static Page\""
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:34
+#, php-format
+msgid "Set %1$s\"Your homepage displays\"%2$s to %1$s\"A Static Page\"%2$s."
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:36
+#: inc/widgets/meta-news-recent-posts.php:32
+msgid "Set featured image on the related post if you need to display Image."
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:36
+msgid "Set featured image on the related post if you need to display image."
+msgstr ""
+
+#: inc/customizer.php:177 inc/customizer.php:188
+msgid "Set the Logo above for effect."
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:48
+msgid "Set up the content/settings accordingly to the widget options"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:51
+msgid "Set Widgets"
+msgstr ""
+
+#: inc/theme-info/sections/demo_content.php:6
+msgid "Setup manually"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3509
+#: inc/tgm/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/customizer.php:814
+msgid "Show Featured Image in Page"
+msgstr ""
+
+#: inc/customizer.php:804
+msgid "Show Featured Image in Posts Single"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:71
+#: inc/widgets/meta-news-recent-posts.php:48
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:71
+msgid "Show Featured Images"
+msgstr ""
+
+#: inc/customizer.php:372 inc/customizer.php:453 inc/customizer.php:506
+#: inc/customizer.php:559 inc/customizer.php:628 inc/customizer.php:681
+msgid "Show Latest Posts"
+msgstr ""
+
+#: inc/customizer.php:412 inc/customizer.php:603
+msgid "Show on both Homepage and Posts Page"
+msgstr ""
+
+#: inc/customizer.php:411 inc/customizer.php:602
+msgid "Show on Homepage only"
+msgstr ""
+
+#: inc/customizer.php:373 inc/customizer.php:454 inc/customizer.php:507
+#: inc/customizer.php:560 inc/customizer.php:629 inc/customizer.php:682
+#: inc/widgets/meta-news-card-block-posts.php:55
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:55
+msgid "Show Posts from Category"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:97
+msgid "Shows widgets at Footer Column 1."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:108
+msgid "Shows widgets at Footer Column 2."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:119
+msgid "Shows widgets at Footer Column 3."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:130
+msgid "Shows widgets at Footer Column 4."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:31
+msgid "Shows widgets at Left Side."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:20
+msgid "Shows widgets at Right Side."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:142
+msgid "Shows widgets at WooCommerce Sidebar."
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:75
+msgid ""
+"Shows widgets on Front Page Template 2 Column Section - Column 1. Suitable "
+"widget: TH: Horizontal/Vertical Posts, TH: Card/Block Posts and TH: Recent "
+"Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:86
+msgid ""
+"Shows widgets on Front Page Template 2 Column Section - Column 2. Suitable "
+"widget: TH: Horizontal/Vertical Posts, TH: Card/Block Posts and TH: Recent "
+"Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:42
+msgid ""
+"Shows widgets on Front Page Template 3 Column Section - Column 1. Suitable "
+"widget: TH: Horizontal/Vertical Posts, TH: Card/Block Posts and TH: Recent "
+"Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:53
+msgid ""
+"Shows widgets on Front Page Template 3 Column Section - Column 2. Suitable "
+"widget: TH: Horizontal/Vertical Posts, TH: Card/Block Posts and TH: Recent "
+"Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:64
+msgid ""
+"Shows widgets on Front Page Template 3 Column Section - Column 3. Suitable "
+"widget: TH: Horizontal/Vertical Posts, TH: Card/Block Posts and TH: Recent "
+"Posts"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:171
+msgid "Sidebars (Widget Areas)"
+msgstr ""
+
+#: inc/customizer.php:176
+msgid "Site Branding Centred "
+msgstr ""
+
+#: inc/customizer.php:187
+msgid "Site Branding Inline "
+msgstr ""
+
+#: inc/theme-info/info.php:101
+msgid "Site Layout"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer.php:219 inc/theme-info/sections/free_vs_pro.php:17
+msgid "Social Profiles"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: template-parts/content-none.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:17
+msgid "Step 1:"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:29
+msgid "Step 2:"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:42
+msgid "Step 3:"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:55
+msgid "Step 4:"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:39
+msgid ""
+"Still need support? Please create a support ticket in our dedicated forum "
+"and one of our support member will get back to you ASAP."
+msgstr ""
+
+#: inc/customizer.php:346
+msgid "Style 1"
+msgstr ""
+
+#: inc/customizer.php:347
+msgid "Style 2"
+msgstr ""
+
+#: inc/theme-info/info.php:28
+msgid "Support"
+msgstr ""
+
+#: inc/customizer.php:22 inc/customizer.php:23
+msgid "Support Forum"
+msgstr ""
+
+#: template-parts/content.php:104
+msgid "Tags"
+msgstr ""
+
+#. %s: version number
+#: inc/tgm/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:17
+msgid "TH: Card/Block Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:17
+msgid "TH: Horizontal/Vertical Posts"
+msgstr ""
+
+#: inc/widgets/meta-news-recent-posts.php:17
+msgid "TH: Recent Posts"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:346
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:388
+#: inc/tgm/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:364
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:358
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/meta-news-footer-info.php:42
+#, php-format
+msgid "Theme by: %s"
+msgstr ""
+
+#: inc/theme-info/info.php:73
+msgid "Theme Details"
+msgstr ""
+
+#. Author of the theme
+#: inc/meta-news-footer-info.php:43
+msgid "Theme Horse"
+msgstr ""
+
+#: inc/customizer.php:20
+msgid "Theme Instructions"
+msgstr ""
+
+#: inc/theme-info/sections/getting_started.php:38
+#: inc/theme-info/sections/recommended_actions.php:57
+msgid "Theme Options"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:58
+#, php-format
+msgid ""
+"Theme uses customizer API for theme options. All settings and theme options "
+"are available via %1$s\"Appearance > Customize\"%2$s where you can easily "
+"customize different aspects of the theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:340
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/widgets/meta-news-recent-posts.php:36
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/meta-news-card-block-posts.php:46
+#: inc/widgets/meta-news-horizontal-vertical-posts.php:46
+msgid "Title: "
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: header.php:101
+msgid "Toggle navigation"
+msgstr ""
+
+#: functions.php:48
+msgid "Top Bar Navigation"
+msgstr ""
+
+#: inc/customizer.php:351
+msgid "TOP STORIES"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:108
+msgid "Top Stories Full Width"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:94
+msgid "Top Stories Label Style"
+msgstr ""
+
+#: inc/customizer.php:322
+msgid "Top Stories Post"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:101
+msgid "Top Stories Thumbnail"
+msgstr ""
+
+#: inc/customizer.php:538
+msgid "TRENDING STORIES"
+msgstr ""
+
+#: inc/meta-news-default-option.php:72
+msgid "Twitter"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/theme-info/info.php:98
+#, php-format
+msgid "Unlock all the Features with %1$s Pro"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:4
+#: inc/theme-info/sections/free_vs_pro.php:255
+#, php-format
+msgid "Unlock all the features with %s Pro"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/tgm/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/tgm/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/tgm/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/tgm/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/customizer.php:138 inc/theme-info/info.php:73
+#: inc/theme-info/info.php:121 inc/theme-info/info.php:124
+#: inc/theme-info/sections/free_vs_pro.php:4
+#: inc/theme-info/sections/free_vs_pro.php:5
+#: inc/theme-info/sections/free_vs_pro.php:255
+#: inc/theme-info/sections/free_vs_pro.php:256
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:30
+#: inc/theme-info/sections/getting_started.php:30
+msgid "Video Tutorial"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:16
+msgid "View Changelog"
+msgstr ""
+
+#: inc/customizer.php:26 inc/theme-info/info.php:73
+msgid "View Demo"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:32
+#: inc/theme-info/sections/getting_started.php:32
+#: inc/theme-info/sections/recommended_actions.php:10
+msgid "Watch Video Tutorial"
+msgstr ""
+
+#: inc/theme-info/sections/support.php:31
+#: inc/theme-info/sections/getting_started.php:31
+msgid ""
+"Watch video tutorial to manually setup the front page (home page) same like "
+"our demo site instead of importing demo content."
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: assets/library/breadcrumbs/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: assets/library/breadcrumbs/breadcrumbs.php:818
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#. 1-theme name
+#: inc/theme-info/info.php:67
+#, php-format
+msgid "Welcome to %1$s"
+msgstr ""
+
+#: inc/theme-info/info.php:48
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. Please make sure you visit our "
+"%2$stheme details%3$s page to get started with %1$s theme."
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:185
+msgid "Widget Advertisement"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:178
+msgid "Widget Card/Block Posts Columns/Slider"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:192
+msgid "Widget Posts Tab"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:248
+msgid "Widget/Section Title Style"
+msgstr ""
+
+#: inc/theme-info/sections/free_vs_pro.php:38
+msgid "WooCommerce Compatible"
+msgstr ""
+
+#: inc/widgets/meta-news-widgets-init.php:140
+msgid "WooCommerce Sidebar"
+msgstr ""
+
+#: inc/meta-news-footer-info.php:32
+msgid "WordPress"
+msgstr ""
+
+#: inc/tgm/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: functions.php:171 assets/library/breadcrumbs/breadcrumbs.php:788
+#: assets/library/breadcrumbs/breadcrumbs.php:817
+#: assets/library/breadcrumbs/breadcrumbs.php:844
+#: assets/library/breadcrumbs/breadcrumbs.php:871
+#: assets/library/breadcrumbs/breadcrumbs.php:1211
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/theme-info/sections/recommended_actions.php:47
+#, php-format
+msgid ""
+"You can see 3 additional widgets %1$s\"TH: Horizontal/Vertical Posts, TH: "
+"Card/Block Posts and TH: Recent Posts\"%2$s which is specally designed for "
+"this theme. Drag and Drop these widget in %1$s\"Front Page 3 Cols\"%2$s or "
+"%1$s\"Front Page 2 Cols\"%2$s Sidebars (Widget Areas) as per your wish."
+msgstr ""
+
+#: inc/meta-news-default-option.php:73
+msgid "Youtube"
+msgstr ""

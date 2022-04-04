@@ -1,0 +1,1614 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MoreNews\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-14 05:44+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.2\n"
+"X-Domain: morenews"
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:143
+#, php-format
+msgid "%1$s by %2$s."
+msgstr ""
+
+#. number of items in the mini cart.
+#: inc/woocommerce.php:258
+#, php-format
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:176
+msgctxt "%s font: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/template-functions.php:554
+#, php-format
+msgid "%s min read"
+msgstr ""
+
+#: lib/info/class.info.php:232
+#, php-format
+msgid "%s() method does not exist."
+msgstr ""
+
+#: inc/customizer/customizer-control.php:186
+msgid "-- Select --"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:313
+msgid "404 Not Found"
+msgstr ""
+
+#: template-parts/content.php:37
+msgid "<span class=\"em-post-navigation\">Next:</span> %title"
+msgstr ""
+
+#: template-parts/content.php:36
+msgid "<span class=\"em-post-navigation\">Previous:</span> %title"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:142
+msgid "About Author"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:44
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:14
+msgid "Add widgets for main sidebar."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:56
+msgid "Add widgets for off-canvas section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:24
+msgid "Add widgets to front-page contents section."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:34
+msgid "Add widgets to front-page sidebar section."
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:19 lib/info/info.php:143
+msgid "AF Companion"
+msgstr ""
+
+#. Author of the theme
+msgid "AF themes"
+msgstr ""
+
+#: inc/customizer/theme-options.php:848
+msgid "After Image"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:24
+msgid "AFTMN Author Info"
+msgstr ""
+
+#: inc/widgets/widget-express-posts-list.php:32
+msgid "AFTMN Express Posts List"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:34
+msgid "AFTMN Post Double Columns"
+msgstr ""
+
+#: inc/widgets/widget-posts-grid.php:32
+msgid "AFTMN Post Grid"
+msgstr ""
+
+#: inc/widgets/widget-posts-list.php:32
+msgid "AFTMN Post List"
+msgstr ""
+
+#: inc/widgets/widget-posts-single-column.php:32
+msgid "AFTMN Post Single Column"
+msgstr ""
+
+#: inc/widgets/widget-posts-slider.php:24
+msgid "AFTMN Posts Slider"
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:24
+msgid "AFTMN Social Contacts"
+msgstr ""
+
+#: inc/widgets/widget-trending-posts.php:34
+msgid "AFTMN Trending News"
+msgstr ""
+
+#: inc/template-tags.php:142
+msgid "ago"
+msgstr ""
+
+#: inc/customizer/theme-options.php:448
+msgid "Ago Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:793
+msgid "Archive layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:755
+msgid "Archive Settings"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:314
+msgid "Archives"
+msgstr ""
+
+#: inc/customizer/theme-options.php:400
+msgid "Author and Date Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:419
+msgid "Author Icon"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:42
+msgid "Banner Ad Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:849
+msgid "Before Image"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:29
+msgid "Blockspare - Beautiful Page Building Gutenberg Blocks for WordPress"
+msgstr ""
+
+#: inc/customizer/customizer.php:65
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:89
+msgid "Body Background Color (Dark Mode)"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:66
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr ""
+
+#: inc/customizer/theme-options.php:678 inc/customizer/theme-options.php:930
+msgid "Bottom"
+msgstr ""
+
+#: inc/customizer/theme-options.php:163
+msgid "Breadcrumb Options"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:311
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:952
+msgid "Breaking News"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:310
+msgid "Browse:"
+msgstr ""
+
+#: inc/customizer/theme-options.php:325
+msgid "Categories Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:366
+msgid "Categories to be displayed"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:236
+#: inc/customizer/frontpage-options.php:373
+#: inc/customizer/frontpage-options.php:673
+#: inc/customizer/frontpage-options.php:1216
+msgid "Category"
+msgstr ""
+
+#: template-parts/content.php:39
+msgid "category"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:184 inc/hooks/hook-meta.php:224
+msgid "Category Color 1"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:185 inc/hooks/hook-meta.php:225
+msgid "Category Color 2"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:186 inc/hooks/hook-meta.php:226
+msgid "Category Color 3"
+msgstr ""
+
+#: lib/info/info.php:126
+msgid "Child Theme"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:224
+msgid "Choose Image"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:192 inc/hooks/hook-meta.php:220
+msgid "Color Class"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:523
+#: inc/customizer/frontpage-options.php:817
+msgid "Comment Count"
+msgstr ""
+
+#. %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:320
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: comments.php:64
+msgid "Comments are closed."
+msgstr ""
+
+#. 1: number of comments, 2: post title
+#: comments.php:41
+#, php-format
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/customizer/customizer-default.php:267
+#: inc/widgets/widget-social-contacts.php:41
+msgid "Connect with Us"
+msgstr ""
+
+#: lib/info/info.php:108 lib/info/info.php:111
+msgid "Contact Support"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:101
+msgid "Content - Primary Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:267
+msgid "Content - Primary sidebar"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:72
+msgid "Content Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:867
+msgid "Content View"
+msgstr ""
+
+#: template-parts/content.php:40
+msgid "Continue Reading"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: template-parts/content.php:20
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:309
+msgid "Copyright &copy; All rights reserved."
+msgstr ""
+
+#: inc/customizer/theme-options.php:1035
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/theme-options.php:537
+msgid "Custom Menu Section"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:195
+msgid "Custom Options"
+msgstr ""
+
+#: lib/info/info.php:74
+msgid "Customize"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:836
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1265
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:28
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer/theme-options.php:443
+msgid "Date Format"
+msgstr ""
+
+#: inc/customizer/theme-options.php:205 inc/customizer/theme-options.php:650
+#: inc/hooks/hook-meta.php:80
+msgid "Default"
+msgstr ""
+
+#: lib/info/info.php:27 lib/info/info.php:87 lib/info/info.php:90
+msgid "Demo Content"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:146
+msgid "Descriptions"
+msgstr ""
+
+#: inc/customizer/theme-options.php:291
+msgid "Disable"
+msgstr ""
+
+#: inc/customizer/customizer.php:159
+msgid "Disable Image Tint/Overlay"
+msgstr ""
+
+#: inc/customizer/theme-options.php:774
+msgid "Disable Main Banner on Blog"
+msgstr ""
+
+#: lib/info/class.info.php:126
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:20
+msgid "Displays author info."
+msgstr ""
+
+#: inc/widgets/widget-express-posts-list.php:28
+msgid "Displays Express Posts from selected categories."
+msgstr ""
+
+#: inc/widgets/widget-trending-posts.php:30
+#: inc/widgets/widget-posts-double-column.php:30
+#: inc/widgets/widget-posts-list.php:28 inc/widgets/widget-posts-grid.php:28
+msgid "Displays grid from selected categories."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:66
+msgid "Displays items on footer first column."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:77
+msgid "Displays items on footer second column."
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:87
+msgid "Displays items on footer third column."
+msgstr ""
+
+#: inc/widgets/widget-posts-single-column.php:28
+msgid "Displays posts single column from selected categories."
+msgstr ""
+
+#: inc/widgets/widget-posts-slider.php:20
+msgid "Displays posts slider from selected category."
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:20
+msgid "Displays social contacts lists from selected settings."
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:178 template-parts/content-page.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:165
+#: inc/customizer/customizer-default.php:178
+msgid "Editor's Picks"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:317
+msgid "Editor's Picks Section"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:24
+msgid ""
+"Elespare – News Magazine and Blog Widgets and Template Kits for Elementor "
+"with Header/Footer Builder"
+msgstr ""
+
+#: inc/customizer/theme-options.php:290
+msgid "Enable "
+msgstr ""
+
+#: inc/customizer/theme-options.php:555
+msgid "Enable Custom Menu Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1073
+msgid "Enable Featured Post Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:978
+msgid "Enable Flash News"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:55
+msgid "Enable Main Banner Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1151
+msgid "Enable Post List Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:244
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/theme-options.php:718
+msgid "Enable Related Posts"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:921
+msgid "Enable Trending Tags"
+msgstr ""
+
+#: inc/customizer/theme-options.php:495
+msgid "Excerpt Settings"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:62
+msgid "Exclusive"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:91
+msgid "Express Posts 1"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:92
+msgid "Express Posts 2"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:89
+msgid "Express Posts Section"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:147
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:193
+msgid "Featured Categories"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:194
+msgid "Featured Pages"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1052
+#: inc/customizer/customizer-default.php:186
+msgid "Featured Posts"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:82
+msgid "Featured Videos"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:232
+#: inc/customizer/frontpage-options.php:369
+#: inc/customizer/frontpage-options.php:518
+#: inc/customizer/frontpage-options.php:669
+#: inc/customizer/frontpage-options.php:812
+msgid "Filter Posts By"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1016
+msgid "Flash Posts Category"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:173
+msgid "Font Family Section"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:151
+msgid "Fonts & Typography"
+msgstr ""
+
+#: inc/customizer/theme-options.php:991
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1012
+msgid "Footer Background Image"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:64
+msgid "Footer First Section"
+msgstr ""
+
+#: functions.php:82
+msgid "Footer Menu"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:75
+msgid "Footer Second Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:85
+msgid "Footer Third Section"
+msgstr ""
+
+#: lib/info/info.php:128
+msgid ""
+"For advanced theme customization, it is recommended to use child theme "
+"rather than modifying the theme file itself. Using this approach, you wont "
+"lose the customization after theme update."
+msgstr ""
+
+#: lib/info/class.info.php:411
+msgid "Free"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:22
+msgid "Front-page Content Section"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:32
+msgid "Front-page Sidebar Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1253
+msgid "Frontpage Content Alignment"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1234
+msgid "Frontpage Layout Settings"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1038
+msgid "Frontpage Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:800
+msgid "Full"
+msgstr ""
+
+#: inc/customizer/theme-options.php:873
+msgid "Full Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:269
+msgid "Full width content"
+msgstr ""
+
+#: lib/info/class.info.php:126
+#, php-format
+msgid "Get started with %1$s"
+msgstr ""
+
+#: lib/info/info.php:24
+msgid "Getting Started"
+msgstr ""
+
+#: inc/customizer/theme-options.php:263
+msgid "Global Content Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options.php:515
+msgid "Global Excerpt Read More"
+msgstr ""
+
+#: inc/customizer/theme-options.php:225
+msgid "Global Settings"
+msgstr ""
+
+#: inc/review.php:108
+msgid "Got any support queries?"
+msgstr ""
+
+#: lib/info/info.php:110
+msgid ""
+"Got theme support question or found bug or got some feedbacks? Best place to "
+"ask your query is the dedicated Support forum for the theme."
+msgstr ""
+
+#: inc/customizer/theme-options.php:96
+msgid "Header Advertisement"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Header Image Mode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:27
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:117
+msgid "Header Section Advertisement"
+msgstr ""
+
+#: inc/customizer/theme-options.php:42
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:348 inc/customizer/theme-options.php:484
+msgid "Hide"
+msgstr ""
+
+#: inc/customizer/theme-options.php:1054
+msgid "Hide footer Menu Section"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:312
+msgid "Home"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1258
+msgid "Home Content - Home Sidebar"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1259
+msgid "Home Sidebar - Home Content"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:818
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/info/info.php:20
+#, php-format
+msgid ""
+"Howdy %1$s, we would like to thank you for installing and activating %2$s "
+"theme for your precious site. All of the features provided by the theme are "
+"now ready to use; Here, we have gathered all of the essential details and "
+"helpful links for you and your better experience with %2$s. Once again, "
+"Thanks for using our theme!"
+msgstr ""
+
+#. %1$s current user display name.
+#: inc/review.php:79
+#, php-format
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we "
+"hope you are loving it! We would appreciate it if you can %3$sgive us a 5 "
+"star rating on WordPress.org%4$s! We'll continue to develop exciting new "
+"features for free in the future by sharing the love!"
+msgstr ""
+
+#. URI of the theme
+msgid "https://afthemes.com/products/morenews/"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.afthemes.com/"
+msgstr ""
+
+#: inc/review.php:103
+msgid "I've already done."
+msgstr ""
+
+#: lib/info/info.php:191
+msgid ""
+"If you want more advanced features then you can upgrade to the premium "
+"version of the theme."
+msgstr ""
+
+#: inc/customizer/theme-options.php:818
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/customizer/theme-options.php:286
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Image visibility may vary as per the mode"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:273
+msgid "Instagram"
+msgstr ""
+
+#: 404.php:23
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: template-parts/content-none.php:44
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/customizer-default.php:128
+#: inc/customizer/customizer-default.php:144
+msgid "Latest"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:34
+msgid "Latest Posts Block Lite"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:619
+msgid "Latest Section"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:23
+msgid "Layout Options"
+msgstr ""
+
+#: lib/info/info.php:129
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/theme-options.php:315 inc/customizer/theme-options.php:823
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:27
+msgid "Light"
+msgstr ""
+
+#: inc/customizer/theme-options.php:594
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/theme-options.php:799
+msgid "List"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:40
+msgid "Live"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:39
+msgid "Magic Content Box Lite"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:36
+msgid "Main Banner"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:77
+msgid "Main Banner Background Image"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:22
+msgid "Main Banner Options"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:123
+msgid "Main News"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:192
+msgid "Main News Section "
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:12
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:906
+msgid "Make Sidebar Sticky"
+msgstr ""
+
+#: lib/info/class.info.php:341 lib/info/class.info.php:382
+msgid "Manage Plugins"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:322
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:784
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:801
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/customizer/theme-options.php:460 inc/customizer/theme-options.php:479
+msgid "Minutes Read Count"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:835
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:891
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1261
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#. Name of the theme
+msgid "MoreNews"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"MoreNews is a professional WordPress theme for news, blog, and magazine "
+"websites. The theme comes with a number of free demo sites that can be "
+"imported with a simple click to create a fantastic news hub. The theme is "
+"fully widgetized, allowing users to control site content with 9+ custom "
+"widgets and widget sections. It also offers multiple main banner options "
+"along with light and dark site mode for reading articles and blog posts in a "
+"fashionable manner. It also includes a variety of useful customizer options "
+"for creating an aesthetically pleasing news site. You may set it up as you "
+"want and see how it looks before publishing any changes with the live "
+"customizer. It works with Gutenberg blocks and RTL, as well as the "
+"WooCommerce plugin, allowing you to mix and match an online store with our "
+"newspaper theme. The theme is appropriate for a news, journal, magazine, "
+"publishing, or review website, as well as blogging. It's well-designed to "
+"help the website rank higher in search engines, and users will receive "
+"excellent support from the staff if they run into any issues while using it."
+msgstr ""
+
+#: inc/customizer/customizer.php:179
+msgid "MoreNews Pro"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:145
+msgid "Name"
+msgstr ""
+
+#: inc/customizer/theme-options.php:208
+msgid "NavXT"
+msgstr ""
+
+#: inc/template-functions.php:524
+msgid "Next"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:107
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:425 inc/customizer/theme-options.php:874
+msgid "None"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: inc/customizer/theme-options.php:389
+msgid "Number of Categories"
+msgstr ""
+
+#: inc/widgets/widgets-register-sidebars.php:54
+msgid "Off Canvas"
+msgstr ""
+
+#. 1: title.
+#: comments.php:34
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1260
+msgid "Only Home Content"
+msgstr ""
+
+#: 404.php:19
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:131
+#: inc/customizer/frontpage-options.php:162
+msgid "Order 1"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:132
+#: inc/customizer/frontpage-options.php:163
+msgid "Order 2"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:133
+msgid "Order 3"
+msgstr ""
+
+#. %s is the page number.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:318
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/content-page.php:27 template-parts/content.php:44
+#: inc/hooks/blocks/block-archive-list.php:20
+msgid "Pages:"
+msgstr ""
+
+#: lib/info/info.php:56 lib/info/info.php:119
+msgid ""
+"Please check our full documentation for detailed information on how to setup "
+"and customize the theme."
+msgstr ""
+
+#: inc/customizer/theme-options.php:201
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing "
+"other than Default"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:111
+msgid "Please go to Customize>Frontpage Options for Homepage."
+msgstr ""
+
+#: inc/hooks/hook-meta.php:88
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr ""
+
+#: inc/customizer/customizer-default.php:129
+#: inc/customizer/customizer-default.php:139
+#: inc/widgets/widgets-common-functions.php:93
+msgid "Popular"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:279
+msgid "Popular News"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:762
+msgid "Popular Section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:895
+#: inc/customizer/customizer-default.php:55
+msgid "Popular Tags"
+msgstr ""
+
+#: inc/customizer/theme-options.php:343
+msgid "Post Categories"
+msgstr ""
+
+#: inc/customizer/theme-options.php:872
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:198
+#, php-format
+msgid "Post list Section Title %d"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:107
+msgid "Posts Carousel"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1133
+msgid "Posts List"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:101
+#, php-format
+msgid "Posts List %d"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:98
+msgid "Posts List Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:976
+msgid "Posts Section Title"
+msgstr ""
+
+#: lib/info/class.info.php:412
+msgid "Premium"
+msgstr ""
+
+#: inc/template-functions.php:523
+msgid "Previous"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:45
+msgid "Primary Color Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:212
+msgid "Primary Font"
+msgstr ""
+
+#: functions.php:80 inc/hooks/hook-header-section.php:40
+msgid "Primary Menu"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:104
+msgid "Primary Sidebar - Content"
+msgstr ""
+
+#: inc/customizer/theme-options.php:268
+msgid "Primary sidebar - Content"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:67
+#: inc/customizer/customizer-default.php:72
+msgid "Prime News"
+msgstr ""
+
+#: lib/info/class.info.php:410
+msgid "Product Features"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:144
+msgid "Profile image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:207
+msgid "Rank Math"
+msgstr ""
+
+#: lib/info/info.php:46
+msgid "Rate This Theme"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:224
+msgid "Read More"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:25
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: inc/widgets/widgets-common-functions.php:84
+msgid "Recent"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:78 inc/customizer/theme-options.php:118
+#: inc/customizer/theme-options.php:1013
+#, php-format
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr ""
+
+#: inc/customizer/theme-options.php:699
+msgid "Related Posts Settings"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:73
+#: inc/customizer/customizer-default.php:287
+msgid "Related Stories"
+msgstr ""
+
+#: inc/review.php:98
+msgid "Remind me later"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:235
+msgctxt "Remove"
+msgid "X"
+msgstr ""
+
+#: inc/customizer/theme-options.php:314 inc/customizer/theme-options.php:824
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/theme-options.php:310
+msgid "Scroll to Top Position"
+msgstr ""
+
+#. %s: search query.
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#. %s is the search query.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:316
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:136
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:112
+msgid "Secondary Color Section "
+msgstr ""
+
+#: inc/customizer/font-color-options.php:231
+msgid "Secondary Font"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1174
+#, php-format
+msgid "Section %d"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1194
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:209
+#: inc/customizer/frontpage-options.php:341
+#: inc/customizer/frontpage-options.php:489
+#: inc/customizer/frontpage-options.php:643
+#: inc/customizer/frontpage-options.php:786
+#: inc/customizer/frontpage-options.php:938
+#: inc/customizer/frontpage-options.php:995
+#: inc/customizer/frontpage-options.php:1091
+msgid "Section Title "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:400
+#: inc/customizer/frontpage-options.php:551
+#: inc/customizer/frontpage-options.php:699
+#: inc/customizer/frontpage-options.php:843
+#: inc/widgets/widgets-common-functions.php:27
+msgid "Select"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1113
+msgid "Select "
+msgstr ""
+
+#: inc/customizer/theme-options.php:200
+msgid "Select Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:256
+#: inc/widgets/widget-trending-posts.php:135
+#: inc/widgets/widget-posts-list.php:118 inc/widgets/widget-posts-grid.php:115
+#: inc/widgets/widget-posts-single-column.php:118
+#: inc/widgets/widget-express-posts-list.php:136
+msgid "Select Category"
+msgstr ""
+
+#: inc/widgets/widget-posts-slider.php:113
+msgid "Select category"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:143
+msgid "Select Category 1"
+msgstr ""
+
+#: inc/widgets/widget-posts-double-column.php:144
+msgid "Select Category 2"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:198 inc/hooks/hook-meta.php:236
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1114
+#: inc/customizer/frontpage-options.php:1217
+msgid "Select category to be shown on featured section "
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:257
+msgid "Select category to be shown on main slider section"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1017
+msgid "Select category to be shown on trending posts "
+msgstr ""
+
+#: inc/customizer/theme-options.php:868
+msgid "Select content view for archive"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:1254
+msgid "Select frontpage content alignment"
+msgstr ""
+
+#: inc/customizer/theme-options.php:844
+msgid "Select full layout for archive"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:223
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:819
+msgid "Select image alignment for archive"
+msgstr ""
+
+#: inc/customizer/theme-options.php:794
+msgid "Select layout for archive"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:102
+msgid "Select Main Banner Layout"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:127
+#: inc/customizer/frontpage-options.php:158
+msgid "Select Main Banner Order"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:285
+#: inc/customizer/frontpage-options.php:430
+#: inc/customizer/frontpage-options.php:582
+#: inc/customizer/frontpage-options.php:728
+#: inc/customizer/frontpage-options.php:872
+msgid "Select Tag"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:286
+msgid "Select tag to be shown on main slider section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:843
+msgid "Select Title Position"
+msgstr ""
+
+#: inc/customizer/customizer.php:141
+msgid "Set as Background"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:77 inc/hooks/hook-meta.php:98
+msgid "Set as global layout"
+msgstr ""
+
+#: inc/customizer/theme-options.php:347 inc/customizer/theme-options.php:483
+msgid "Show"
+msgstr ""
+
+#: inc/customizer/theme-options.php:958
+msgid "Show Above Footer"
+msgstr ""
+
+#: inc/customizer/theme-options.php:370
+msgid "Show All"
+msgstr ""
+
+#: inc/customizer/theme-options.php:182
+msgid "Show breadcrumbs"
+msgstr ""
+
+#: inc/customizer/theme-options.php:626
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:142
+msgid "Show Full Image"
+msgstr ""
+
+#: inc/customizer/theme-options.php:423
+msgid "Show Gravatar"
+msgstr ""
+
+#: inc/customizer/theme-options.php:424
+msgid "Show Icon"
+msgstr ""
+
+#: inc/customizer/theme-options.php:82
+msgid "Show Top Header"
+msgstr ""
+
+#: inc/hooks/hook-meta.php:93
+msgid "Sidebar Options"
+msgstr ""
+
+#: inc/customizer/theme-options.php:887
+msgid "Sidebar Settings"
+msgstr ""
+
+#: inc/customizer/theme-options.php:925
+msgid "Sidebar Sticky Position"
+msgstr ""
+
+#: inc/customizer/theme-options.php:646
+msgid "Single Content Mode"
+msgstr ""
+
+#: inc/customizer/theme-options.php:608
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:23
+msgid "Site Color Mode"
+msgstr ""
+
+#: inc/customizer/font-color-options.php:193
+msgid "Site Title Font"
+msgstr ""
+
+#: inc/customizer/customizer.php:91
+msgid "Site Title Size"
+msgstr ""
+
+#: inc/customizer/customizer.php:120
+msgid "Site Title/Tagline Color"
+msgstr ""
+
+#: header.php:46
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:108
+msgid "Slider and Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:107
+msgid "Slider, Editors Picks and Tabs"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:106
+msgid "Slider, Trending and Tabs"
+msgstr ""
+
+#: functions.php:81
+msgid "Social Menu"
+msgstr ""
+
+#: inc/widgets/widget-social-contacts.php:67
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu "
+"on Menu Settings."
+msgstr ""
+
+#: inc/customizer/theme-options.php:673
+msgid "Social Share from Jetpack plugin"
+msgstr ""
+
+#: inc/customizer/theme-options.php:672
+msgid "Social Share Option"
+msgstr ""
+
+#: template-parts/content-none.php:38
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: inc/customizer/theme-options.php:651 inc/hooks/hook-meta.php:83
+msgid "Spacious"
+msgstr ""
+
+#: lib/info/info.php:63 lib/info/info.php:66
+msgid "Static Front Page"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:296
+msgid "Subscribe To  Our Newsletter"
+msgstr ""
+
+#: lib/info/info.php:25
+msgid "Support"
+msgstr ""
+
+#: inc/review.php:93
+msgid "Sure thing"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:237
+#: inc/customizer/frontpage-options.php:374
+#: inc/customizer/frontpage-options.php:522
+#: inc/customizer/frontpage-options.php:674
+#: inc/customizer/frontpage-options.php:816
+msgid "Tag"
+msgstr ""
+
+#: lib/info/info.php:34
+msgid "Theme Details"
+msgstr ""
+
+#: lib/info/info.php:54 lib/info/info.php:117
+msgid "Theme Documentation"
+msgstr ""
+
+#: inc/customizer/theme-options.php:150 lib/info/info.php:71
+msgid "Theme Options"
+msgstr ""
+
+#: lib/info/info.php:95
+msgid "Theme Preview"
+msgstr ""
+
+#: lib/info/info.php:138
+msgid ""
+"Theme supports some helpful WordPress plugins to enhance your site. But, "
+"please enable only those plugins which you need in your site. For example, "
+"enable WooCommerce only if you are using e-commerce."
+msgstr ""
+
+#: lib/info/info.php:73
+msgid ""
+"Theme uses Customizer API for theme options. Using the Customizer you can "
+"easily customize different aspects of the theme."
+msgstr ""
+
+#: lib/info/info.php:81
+msgid ""
+"Theme uses Wedgets API for widget options. Using the Widgets you can easily "
+"customize different aspects of the theme."
+msgstr ""
+
+#: inc/customizer/theme-options.php:575 inc/customizer/theme-options.php:736
+#: inc/widgets/widget-author-info.php:142
+#: inc/widgets/widget-trending-posts.php:134
+#: inc/widgets/widget-posts-double-column.php:141
+#: inc/widgets/widget-posts-double-column.php:142
+#: inc/widgets/widget-posts-list.php:117 inc/widgets/widget-posts-grid.php:114
+#: inc/widgets/widget-posts-slider.php:111
+#: inc/widgets/widget-posts-single-column.php:117
+#: inc/widgets/widget-express-posts-list.php:135
+msgid "Title"
+msgstr ""
+
+#: lib/info/info.php:65
+msgid ""
+"To achieve custom home page other than blog listing, you need to create and "
+"set static front page."
+msgstr ""
+
+#: lib/info/info.php:143
+#, php-format
+msgid ""
+"To import demo content for this theme, %1$s plugin is needed. Please make "
+"sure plugin is installed and activated. After plugin is activated, you will "
+"see AF Companion Dashboard from admin menu."
+msgstr ""
+
+#: lib/info/info.php:89
+#, php-format
+msgid ""
+"To import sample demo content, %1$s plugin should be installed and activated."
+" After plugin is activated, visit AF Companion Dashboard from admin menu."
+msgstr ""
+
+#: inc/customizer/theme-options.php:929
+msgid "Top"
+msgstr ""
+
+#: inc/customizer/theme-options.php:677
+msgid "Top - Default"
+msgstr ""
+
+#: inc/customizer/theme-options.php:62
+msgid "Top Header Section"
+msgstr ""
+
+#: inc/customizer/theme-options.php:371
+msgid "Top One Category"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:130
+msgid "Trending"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:133
+#: inc/customizer/customizer-default.php:257
+msgid "Trending Now"
+msgstr ""
+
+#: inc/customizer/frontpage-options.php:464
+msgid "Trending Section"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:181
+msgid "Trending Story"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:148
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/customizer.php:180 lib/info/info.php:192
+msgid "Upgrade Now"
+msgstr ""
+
+#: lib/info/info.php:28
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/widgets/widgets-base.php:222
+msgid "Upload"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Uppercase Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/theme-options.php:139
+msgid "URL Link"
+msgstr ""
+
+#: lib/info/info.php:26
+msgid "Useful Plugins"
+msgstr ""
+
+#: lib/info/info.php:38 lib/info/info.php:98
+msgid "View Demo"
+msgstr ""
+
+#: lib/info/info.php:42 lib/info/info.php:57 lib/info/info.php:120
+msgid "View Documentation"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:204
+msgid "View More"
+msgstr ""
+
+#: inc/woocommerce.php:254
+msgid "View your shopping cart"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:324
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:864
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: lib/info/class.info.php:126
+#, php-format
+msgid ""
+"Welcome! Thank you for choosing %1$s. To fully take advantage of the best "
+"our theme can offer please make sure you visit theme details page."
+msgstr ""
+
+#: lib/info/info.php:79 lib/info/info.php:82
+msgid "Widgets"
+msgstr ""
+
+#: inc/customizer/theme-options.php:447
+msgid "WordPress Default Date Format"
+msgstr ""
+
+#: inc/hooks/hook-tgm.php:44
+msgid "WP Post Author"
+msgstr ""
+
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:834
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:863
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:890
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:917
+#: lib/breadcrumb-trail/inc/breadcrumbs.php:1257
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/theme-options.php:206
+msgid "Yoast SEO"
+msgstr ""
+
+#: lib/info/info.php:97
+msgid ""
+"You can check out the theme demos for reference to find out what you can "
+"achieve using the theme and how it can be customized."
+msgstr ""
+
+#: inc/customizer/theme-options.php:941
+msgid "You May Have Missed"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:305
+msgid "You may have missed"
+msgstr ""
+
+#: inc/widgets/widget-author-info.php:149
+msgid "YouTube"
+msgstr ""
+
+#: inc/customizer/customizer-default.php:80
+msgid "Youtube video Section"
+msgstr ""

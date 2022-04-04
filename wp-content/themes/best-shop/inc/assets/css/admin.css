@@ -1,0 +1,15 @@
+/* SinglePage and Single post */
+
+#best_shop_sidebar_layout .inside .hide-radio input[type = "radio"] {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    opacity: 0;
+}
+#best_shop_sidebar_layout .inside .hide-radio label {
+    display: block;
+    border: 1px solid transparent;
+}
+#best_shop_sidebar_layout .inside .hide-radio input[type=radio]:checked + label {
+    border: 3px solid #CCC;
+}
